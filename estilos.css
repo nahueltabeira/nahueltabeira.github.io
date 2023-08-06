@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: rgb(255, 254, 254);
+}
+
+.titulo{
+    text-align: center;
+    text-decoration: none;
+    background-color:orange;
+    font-size: 300%;
+    color: blue;
+    padding: 2rem;
+}
+.contenedor{
+    display: flex;
+    }
+
+
+.izquierda{
+    background-color: rgb(246, 244, 244);
+    width: 50%;
+
+}
+.imagen{
+    max-width: 100%;
+    height: auto;
+    margin-left: 35%;
+    margin-top: 20%;
+}
+
+.derecha{
+    text-align: center;
+    background-color: rgb(35, 50, 184);
+    width: 50%;
+    height: 900px;
+    color: orange;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(221, 240, 17);
+    font-size: 100%;
+    color: blue;
+    background-color: orange;
+}
+
+#formato{
+    margin-top: 30px;
+    font-size: 200%;
+}
+
+#parrafo1{
+    font-size: 200%;
+    
+}
+#Nombre{
+    font-size: 300%;
+    margin-top: 40%;
+}
+.links{
+    font-size: 130%;
+    color: aqua;
+}

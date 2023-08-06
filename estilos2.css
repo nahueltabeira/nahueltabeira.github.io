@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    text-align: center;
+    background-color: orange;
+}
+.tabla1 , td, th{
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center; 
+    margin-left:35% ;
+    
+}
+#tabla2{
+    border: 1px solid black;
+    margin-left:37% ;
+}
+.listasinpuntos{
+    list-style: none;
+}
+.inferior{
+    background-color: blue;
+}
+a{
+    color: orange;
+}
